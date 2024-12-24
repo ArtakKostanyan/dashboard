@@ -1,0 +1,19 @@
+.sidebar {
+    max-width: 250px;
+    background-color: #f9fafb;
+    border-right: 1px solid #d1d5db;
+}
+
+.sidebar-item {
+    transition: background-color 0.2s, color 0.2s;
+}
+
+.sidebar-item:hover {
+    background-color: #e0f2fe;
+    color: #2563eb;
+}
+
+input::placeholder {
+    color: #9ca3af;
+    opacity: 1;
+}

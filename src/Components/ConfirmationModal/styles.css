@@ -1,0 +1,7 @@
+.modal {
+    position: fixed;
+    z-index: 9999;
+    left: 50%;
+    top: 50%;
+    background: #969393;
+}
