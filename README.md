@@ -4,6 +4,6 @@
    git clone https://github.com/ArtakKostanyan/dashboard.git
    cd dashboard
    npm install
-   npm run dev
+   npm run start
 
 
